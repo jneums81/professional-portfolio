@@ -146,9 +146,7 @@ p {
       flex: 0 0 50%;
       max-width: 50%;
     }
-  
-    
-    .card-column:last-child {
+   .card-column:last-child {
       flex-grow: 1;
     }
   }
